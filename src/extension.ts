@@ -1,5 +1,4 @@
 import * as vscode from 'vscode';
-//TODO 上传github
 let decorations: vscode.TextEditorDecorationType[] = [];
 
 export function activate (context: vscode.ExtensionContext) {
