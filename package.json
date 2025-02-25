@@ -1,5 +1,6 @@
 {
 	"name": "svg-component-preview",
+	"displayName": "Svg Component Preview",
 	"description": "Show svg preview icon in vscode gutter",
 	"version": "0.0.1",
 	"publisher": "hylxsfh",
